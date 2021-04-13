@@ -1,3 +1,5 @@
+Welcome.
+
 - 👋 Hi, I’m @nnichols2013
 - 👀 I’m interested in ... Rock climbing, Physics engines, CS
 - 🌱 I’m currently learning ... Neural Networks, Java APIs, Python web scraping tools
